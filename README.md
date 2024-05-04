@@ -1,7 +1,13 @@
 # Youtube-automation-with-python
 
-it's a voice control automation. 
+it's a voice control youtube automation. 
 
-it's helps like a voice assistant.
+any one can open the youtube manually or search something using assistant's help.
 
-it's an coding repository... the technology here used is python. if any one run this code on their laptop in a python environment then it will work. 
+# Python packages needed
+
+1. pyttsx3
+2. speech_recognition
+3. webbrowser
+4. time
+5. pywhatkit
